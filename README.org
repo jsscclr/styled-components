@@ -2,3 +2,8 @@
 ** development
    - ~yarn install~
    - ~yarn run dev~
+** test
+   Tests use tape.
+   - ~yarn test~
+** deploy
+   - ~yarn run deploy:github~
