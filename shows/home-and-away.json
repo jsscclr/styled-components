@@ -1,0 +1,14 @@
+{
+  "title": "Home and Away",
+  "image": {
+    "alt": "Home and Away stars",
+    "src": "tile.jpg"
+  },
+  "channel": {
+    "name": "Seven",
+    "image": {
+      "alt": "Seven",
+      "src": "logo.png"
+    }
+  }
+}
