@@ -1,0 +1,4 @@
+* styled-components + React view
+** development
+   - ~yarn install~
+   - ~yarn run dev~
