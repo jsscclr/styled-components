@@ -26,7 +26,7 @@ module.exports = {
     filename: "[name].bundle.js",
     chunkFilename: "[name].bundle.js",
     path: resolve(__dirname, "dist"),
-    publicPath: "/",
+    publicPath: "/styled-components/",
   },
   plugins: [
     new HtmlWebpackPlugin({

@@ -1,4 +1,4 @@
-const showsEndpoint = showId => `/shows/${showId}.json`
+const showsEndpoint = showId => `shows/${showId}.json`
 const getJSON = response => response.json()
 
 /*
